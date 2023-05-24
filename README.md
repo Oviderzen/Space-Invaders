@@ -19,7 +19,7 @@ A modern Space Invaders clone made with PyGame.
   
 <p style="text-align:center;">Victory Screen.</p
   
-![victory](https://i.postimg.cc/gjnLYbP7/victory.png)
+![victory](https://i.postimg.cc/0NY39rGz/victory.png)
 <br>
   
 <p style="text-align:center;">Defeat Screen.</p
